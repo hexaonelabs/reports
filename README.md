@@ -1,4 +1,5 @@
 # reports
 HexaOne Labs Reports
 
-[Financial News](https://hexaonelabs.github.io/reports/financial-news/)
+- [Vaults Stats](https://hexaonelabs.github.io/reports/vaults/)
+- [Financial News](https://hexaonelabs.github.io/reports/financial-news/)
