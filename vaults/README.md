@@ -1,2 +1,2 @@
 # Vaults
-- [hxBTC](https://hexaonelabs.github.io/reports/vaults/hxbtc)
+- [hxBTC](https://hexaonelabs.github.io/reports/vaults/hxBTC)
